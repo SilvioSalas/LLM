@@ -1,0 +1,94 @@
+# ==========================
+# Jupyter Notebook
+# ==========================
+.ipynb_checkpoints/
+*.ipynb
+
+# ==========================
+# PDFs e documentos
+# ==========================
+*.pdf
+*.doc
+*.docx
+*.ppt
+*.pptx
+*.xls
+*.xlsx
+
+# ==========================
+# Arquivos de dados
+# ==========================
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+
+# ==========================
+# Arquivos compactados
+# ==========================
+*.zip
+*.tar
+*.tar.gz
+*.gz
+*.7z
+*.rar
+
+# ==========================
+# Logs
+# ==========================
+*.log
+
+# ==========================
+# Ambiente virtual Python
+# ==========================
+venv/
+.venv/
+env/
+ENV/
+
+# ==========================
+# Cache Python
+# ==========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ==========================
+# Distribuição / Build
+# ==========================
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ==========================
+# Configurações de IDE
+# ==========================
+.vscode/
+.idea/
+*.iml
+
+# ==========================
+# Sistema Operacional
+# ==========================
+.DS_Store
+Thumbs.db
+
+# ==========================
+# Arquivos de ambiente
+# ==========================
+.env
+.env.*
+*.env
+
+# ==========================
+# Arquivos temporários
+# ==========================
+*.tmp
+*.temp
+*.bak
+*.swp
